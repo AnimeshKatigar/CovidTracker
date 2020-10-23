@@ -1,3 +1,7 @@
+## A Covid-19 Tracker
+
+A live corona stats tracker with a Map, Chart, Country Stats, etc.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
